@@ -21,5 +21,5 @@ def su_hesapla(kilo):
 kilo_al=int(input("lütfen kilonuzu giriniz"))
 
 su_hesapla(kilo_al)
-def yag_oran(yag):
+
 
